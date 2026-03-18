@@ -10,6 +10,13 @@ protobuf==3.19.6
 python-dotenv
 statsmodels
 xgboost
+pycountry
+dotenv
+google
+joblib
+plotly
+
+
 
 
 # API

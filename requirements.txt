@@ -12,7 +12,7 @@ statsmodels
 xgboost
 pycountry
 dotenv
-google
+google-generativeai
 joblib
 plotly
 

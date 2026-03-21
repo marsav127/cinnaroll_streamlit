@@ -15,7 +15,7 @@ dotenv
 google-generativeai
 joblib
 plotly
-shap
+shap==0.51.0
 
 
 

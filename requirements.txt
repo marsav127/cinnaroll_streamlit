@@ -2,10 +2,10 @@
 
 matplotlib
 seaborn
-numpy==1.26.4
-pandas==2.2.3
-scipy==1.13.1
-scikit-learn==1.6.1
+numpy
+pandas
+scipy
+scikit-learn
 protobuf
 python-dotenv
 statsmodels
@@ -15,8 +15,7 @@ dotenv
 google-generativeai
 joblib
 plotly
-shap==0.51.0
-
+shap
 
 
 

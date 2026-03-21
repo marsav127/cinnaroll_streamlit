@@ -15,6 +15,7 @@ dotenv
 google-generativeai
 joblib
 plotly
+shap
 
 
 
